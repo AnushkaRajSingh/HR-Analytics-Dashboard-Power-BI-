@@ -37,5 +37,5 @@ The dashboard enables:
 ## 💡 Contact
 
 📧 anushkarajsingh28012002@gmail.com  
-📍 [LinkedIn](https://www.linkedin.com/in/anushkarajsingh) (optional)
+📍 [LinkedIn](https://www.linkedin.com/in/anushkarajsingh)
 
