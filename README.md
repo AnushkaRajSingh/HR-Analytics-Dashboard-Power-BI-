@@ -27,7 +27,7 @@ The dashboard enables:
 
 ## 📁 Files
 
-- `HR_Analytics_Dashboard.pbix` – Main Power BI file
+- `HR Analytics Dashboard.pbix` – Main Power BI file
 - `HR_Analytics_Dashboard.pdf` – Printable version of the dashboard
 
 > ⚠️ Data used is sample/synthetic to maintain confidentiality.
